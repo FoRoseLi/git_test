@@ -2,5 +2,6 @@
 int main()
 {
 	std::cout<<"hello world!"<<std::endl;
-	std::Cout<<"hello git!"<<std::endl;
+	std::cout<<"hello git!"<<std::endl;
+	std::cout<<"hello linux!"<<std::endl;
 }
